@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anastasia Smirnova</h1>
-<h3 align="center"> A Frontend-developer who loves her job :heart: </h3>
+<h3 align="center"> A Web-developer who loves her job :heart: </h3>
 
 📫 How to reach me: </br>
 
