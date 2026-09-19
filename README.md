@@ -1,12 +1,16 @@
 <h1 align="center">Hi, I'm Anastasia Smirnova 👋</h1>
 <h3 align="center">Frontend Developer who loves her job 💜</h3>
 
-<p align="center">
-  Building scalable web applications with Vue, React and TypeScript.
-</p>
-
 📫 **Email:** asmirnova1199@gmail.com
 
+---
+### 🚀 About Me
+
+- Frontend Developer with 4+ years of commercial experience
+- Experienced in developing e-commerce applications
+- Working with Vue 3, TypeScript and REST APIs
+- Experience with microfrontend architecture
+- Interested in frontend architecture and scalable applications
 ---
 
 ### 💻 Core Technologies
@@ -53,17 +57,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔌 Backend & Integrations
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=for-the-badge&logo=yii&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### 🗄️ Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 
 ### 🌱 Currently Learning
@@ -71,3 +64,9 @@
 - Advanced React & TypeScript
 - Frontend architecture and design patterns
 - Testing and application quality
+
+---
+
+### ➕ 
+
+PHP · Yii2 · Kafka — also comfortable with backend context when collaborating with the backend team.
